@@ -1,0 +1,2 @@
+# RNNProcessChineseSegment
+使用jieba及双向LSTM加注意力机制实现中文文本编码及分类
